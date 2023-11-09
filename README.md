@@ -2,6 +2,7 @@
 
 - 🔭 I'm actively seeking a 2024 new grad position in Backend Engineering, Fullstack Engineering, and Data Engineering(graduating in May 2024). 
 - 📫 How to reach me: lixuanhong06@gmail.com
+- 💬 Check out my updated resume: https://drive.google.com/file/d/1CgIQqo8nFP3IEqbahGZ_SMjaDy_96j3u/view?usp=sharing
 
 I am a graduate student in Computer Science at the University of Massachusetts Amherst. I worked as a Software Engineer for 3+ years and also interned at SoFi 2024 Summer in San Fransico, where I focused on developing data pipelines using Java Spring Boot. 
 
